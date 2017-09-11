@@ -1,12 +1,11 @@
-# Twitter Screenshotter
+# Streamshot Script
 
-###Requires
-
-Dropbox API Key
-
-###Dependencies
+### Dependencies
 
 - tweepy
-- dropbox
 - selenium
 - PhantomJS (via Brew)
+
+### Usage
+
+Live monitoring of a Twitter account and saves all tweets and retweets as screenshots (PNG)
